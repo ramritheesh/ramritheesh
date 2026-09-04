@@ -1,28 +1,141 @@
-<h1 align="center">Hi 👋, I'm K.V.RAM RITHEESH</h1>
-<h3 align="center">AI & Full-Stack Developer | Generative AI Enthusiast | Robotics & AI Engineer</h3>
+# Hi, I'm Ram Ritheesh 👋
 
-- 🔭 I’m currently working on [ScamShield AI](https://github.com/ramritheesh/ScamShield-AI.git)
+### Data & Product Analytics | SQL • Python • BI • Experimentation
 
-- 🌱 I’m currently learning **Generative AI, AI Agents, LangChain, LangGraph, RAG, Data Engineering, PySpark, Cloud Computing & System Design**
+I build data-driven projects that turn product and business data into
+actionable insights.
 
-- 👯 I’m looking to collaborate on [Advanced AI Agents, RAG, LangChain, LangGraph & Cloud Deployment](https://github.com/ramritheesh)
+My work focuses on:
+- 📊 Product & business analytics
+- 🔎 Customer & revenue intelligence
+- 🧪 A/B testing & experimentation
+- 📈 Cohort & retention analysis
+- 🤖 Churn prediction & risk analytics
+- 🗄️ SQL & analytics engineering
+- 📉 Business intelligence & dashboards
 
-- 🤝 I’m looking for help with [Advanced AI Agents, RAG, LangChain, LangGraph & Cloud Deployment](https://github.com/ramritheesh)
+---
 
-- 👨‍💻 All of my projects are available at [https://github.com/ramritheesh](https://github.com/ramritheesh)
+## 🚀 Featured Projects
 
-- 💬 Ask me about **Python, Java, React.js, FastAPI, SQL, Generative AI, AI Agents, REST APIs, Git & Full-Stack Development**
+### 📊 SaaS Product Growth & Revenue Intelligence
 
-- 📫 How to reach me **ram123ritheesh@gmail.com**
+End-to-end SaaS analytics platform covering activation, retention,
+experimentation, customer segmentation, churn prediction, and
+revenue-at-risk analysis.
 
-- ⚡ Fun fact **I like building AI projects that solve problems people actually face.**
+**Highlights**
+- 100K customers
+- 1.45M+ product events
+- Funnel & cohort analysis
+- A/B testing with statistical significance
+- Churn prediction
+- Customer segmentation
+- Revenue-at-risk modeling
+- Interactive Streamlit dashboard
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/kilari-venkata-ram-ritheesh-068122300/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/kilari-venkata-ram-ritheesh-068122300/" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/ram123ritheesh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/ram123ritheesh" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/ramritheesh/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/ramritheesh/" height="30" width="40" /></a>
-</p>
+**Tech:** SQL • DuckDB • Python • Pandas • Scikit-learn • Plotly • Streamlit
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+🔗 [View Project](https://github.com/ramritheesh/saas-product-growth-revenue-intelligence)
+
+---
+
+### 🛒 Olist Customer & Revenue Intelligence
+
+Customer and revenue analytics project focused on understanding
+customer behavior, retention, revenue drivers, and business performance.
+
+**Focus Areas**
+- Customer segmentation
+- Revenue analysis
+- Cohort retention
+- RFM analysis
+- Product & category performance
+- Delivery and customer experience analysis
+
+**Tech:** SQL • Python • Pandas • Power BI
+
+🔗 Coming soon
+
+---
+
+### 🔎 DiscoverIQ — Product Analytics
+
+Product analytics project focused on understanding user behavior,
+engagement, conversion, and product performance.
+
+**Focus Areas**
+- Product funnel analysis
+- User engagement
+- Feature adoption
+- Retention
+- Conversion analysis
+- Product KPI framework
+
+**Tech:** SQL • Python • Pandas • Power BI
+
+🔗 Coming soon
+
+---
+
+## 🛠️ Skills
+
+### Analytics
+SQL • Product Analytics • Business Analytics • Cohort Analysis •
+Funnel Analysis • Customer Segmentation • A/B Testing • KPI Analysis
+
+### Programming
+Python • Pandas • NumPy • Scikit-learn
+
+### Data & BI
+DuckDB • PostgreSQL • Power BI • Tableau • Plotly • Streamlit
+
+### Analytics Engineering
+Data Modeling • ETL/ELT • SQL Marts • Data Quality Testing •
+Reproducible Analytics Pipelines
+
+### Machine Learning
+Classification • Churn Prediction • Feature Engineering •
+Model Evaluation • Risk Scoring
+
+---
+
+## 📚 Currently Learning
+
+- Advanced SQL & query optimization
+- Product analytics
+- Experimentation & causal inference
+- Analytics engineering
+- Machine learning for business problems
+- System design fundamentals
+
+---
+
+## 📈 What I Care About
+
+I enjoy working on problems where data can answer questions like:
+
+> Why are users dropping off?
+
+> Which customers are most valuable?
+
+> What drives retention?
+
+> Which product changes actually improve conversion?
+
+> Where is revenue at risk?
+
+---
+
+## 🤝 Let's Connect
+
+- 💼 [LinkedIn](YOUR_LINKEDIN_URL)
+- 📧 Email: ram123ritheesh@gmail.com
+
+I'm actively interested in **Data Analyst, Product Analyst,
+Business Analyst, BI Analyst, and Data/AI internship opportunities.**
+
+---
+
+⭐ If you find one of my projects useful, feel free to explore the
+repository and leave feedback.
