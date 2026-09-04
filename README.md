@@ -1,18 +1,21 @@
 # Hi, I'm Ram Ritheesh 👋
 
-### Data & Product Analytics | SQL • Python • BI • Experimentation
+### Data Analytics | Data Engineering | Machine Learning | AI
 
-I build data-driven projects that turn product and business data into
-actionable insights.
+I build end-to-end data and AI projects that turn raw data into
+actionable insights, analytical products, predictive models,
+data pipelines, and intelligent applications.
 
-My work focuses on:
-- 📊 Product & business analytics
-- 🔎 Customer & revenue intelligence
-- 🧪 A/B testing & experimentation
-- 📈 Cohort & retention analysis
-- 🤖 Churn prediction & risk analytics
-- 🗄️ SQL & analytics engineering
-- 📉 Business intelligence & dashboards
+I'm particularly interested in:
+
+- 📊 Data Analytics & Business Intelligence
+- 🏗️ Data Engineering & ETL/ELT
+- 🤖 Machine Learning
+- 🧠 Artificial Intelligence & GenAI
+- 🗄️ SQL & Data Modeling
+- 📈 Product & Customer Analytics
+- 🧪 A/B Testing & Statistical Analysis
+- 🚀 AI-powered applications
 
 ---
 
@@ -20,19 +23,21 @@ My work focuses on:
 
 ### 📊 SaaS Product Growth & Revenue Intelligence
 
-End-to-end SaaS analytics platform covering activation, retention,
-experimentation, customer segmentation, churn prediction, and
-revenue-at-risk analysis.
+End-to-end SaaS analytics platform covering product growth,
+customer intelligence, experimentation, churn prediction,
+and revenue-at-risk analysis.
 
 **Highlights**
 - 100K customers
 - 1.45M+ product events
 - Funnel & cohort analysis
-- A/B testing with statistical significance
-- Churn prediction
+- A/B testing & statistical significance
 - Customer segmentation
+- Churn prediction
 - Revenue-at-risk modeling
 - Interactive Streamlit dashboard
+- SQL analytical marts
+- Automated data quality testing
 
 **Tech:** SQL • DuckDB • Python • Pandas • Scikit-learn • Plotly • Streamlit
 
@@ -40,102 +45,94 @@ revenue-at-risk analysis.
 
 ---
 
-### 🛒 Olist Customer & Revenue Intelligence
+### 🛡️ ScamShield-AI
 
-Customer and revenue analytics project focused on understanding
-customer behavior, retention, revenue drivers, and business performance.
+AI-powered scam detection and digital safety assistant designed
+to help identify potentially fraudulent or suspicious content.
 
-**Focus Areas**
-- Customer segmentation
-- Revenue analysis
-- Cohort retention
-- RFM analysis
-- Product & category performance
-- Delivery and customer experience analysis
+**Tech:** React • FastAPI • JavaScript • Gemini AI
 
-**Tech:** SQL • Python • Pandas • Power BI
-
-🔗 Coming soon
+🔗 [View Project](https://github.com/ramritheesh/ScamShield-AI)
 
 ---
 
-### 🔎 DiscoverIQ — Product Analytics
+### 🏥 AI Insurance Classifier
 
-Product analytics project focused on understanding user behavior,
-engagement, conversion, and product performance.
+Full-stack AI application that uses the Google Gemini API to
+classify insurance documents through a modern web interface.
 
-**Focus Areas**
-- Product funnel analysis
-- User engagement
-- Feature adoption
-- Retention
-- Conversion analysis
-- Product KPI framework
+**Tech:** TypeScript • React • Gemini API
 
-**Tech:** SQL • Python • Pandas • Power BI
-
-🔗 Coming soon
+🔗 [View Project](https://github.com/ramritheesh/ai-insurance-classifier)
 
 ---
 
-## 🛠️ Skills
+### 📈 Sales Data Analysis
 
-### Analytics
-SQL • Product Analytics • Business Analytics • Cohort Analysis •
-Funnel Analysis • Customer Segmentation • A/B Testing • KPI Analysis
+Business-focused sales analytics project using Python, SQL,
+Excel, and Power BI to analyze revenue trends, customer behavior,
+product performance, and business KPIs.
 
-### Programming
-Python • Pandas • NumPy • Scikit-learn
+**Tech:** Python • SQL • Excel • Power BI • Pandas
 
-### Data & BI
-DuckDB • PostgreSQL • Power BI • Tableau • Plotly • Streamlit
-
-### Analytics Engineering
-Data Modeling • ETL/ELT • SQL Marts • Data Quality Testing •
-Reproducible Analytics Pipelines
-
-### Machine Learning
-Classification • Churn Prediction • Feature Engineering •
-Model Evaluation • Risk Scoring
+🔗 [View Project](https://github.com/ramritheesh/SalesDataAnalysis)
 
 ---
 
-## 📚 Currently Learning
+### 🎮 Video Games Sales Analysis
 
-- Advanced SQL & query optimization
-- Product analytics
-- Experimentation & causal inference
-- Analytics engineering
-- Machine learning for business problems
-- System design fundamentals
+Exploratory data analysis project examining video game sales
+using Python-based data analysis and visualization.
 
----
+**Tech:** Python • Pandas • NumPy • Matplotlib • Jupyter Notebook
 
-## 📈 What I Care About
-
-I enjoy working on problems where data can answer questions like:
-
-> Why are users dropping off?
-
-> Which customers are most valuable?
-
-> What drives retention?
-
-> Which product changes actually improve conversion?
-
-> Where is revenue at risk?
+🔗 [View Project](https://github.com/ramritheesh/VideoGamesSalesAnalysis)
 
 ---
 
-## 🤝 Let's Connect
+## 🧠 AI & Machine Learning
 
-- 💼 [LinkedIn](YOUR_LINKEDIN_URL)
-- 📧 Email: ram123ritheesh@gmail.com
+My AI/ML work focuses on applying machine learning and
+generative AI to practical problems.
 
-I'm actively interested in **Data Analyst, Product Analyst,
-Business Analyst, BI Analyst, and Data/AI internship opportunities.**
+### Areas
+
+- Machine Learning
+- Predictive Modeling
+- Classification
+- Feature Engineering
+- Model Evaluation
+- Churn Prediction
+- Risk Scoring
+- NLP
+- Generative AI
+- LLM Applications
+- RAG
+- AI Agents
+
+### Tools
+
+Python • Scikit-learn • XGBoost • LightGBM • Gemini API
+LangChain • LangGraph
 
 ---
 
-⭐ If you find one of my projects useful, feel free to explore the
-repository and leave feedback.
+## 🏗️ Data Engineering
+
+I'm building experience in designing reproducible data pipelines
+and analytical data systems.
+
+```text
+Raw Data
+    ↓
+Data Ingestion
+    ↓
+ETL / ELT
+    ↓
+Data Validation
+    ↓
+Data Modeling
+    ↓
+Analytical Warehouse
+    ↓
+BI / ML / AI
