@@ -1,260 +1,88 @@
 # Hi, I'm Ram Ritheesh 👋
 
-### Data Analytics \| Data Engineering \| Machine Learning \| AI
+**Robotics & AI student at Bangalore Institute of Technology (CGPA 8.63/10) | Aspiring AI/ML Engineer**
 
-I build end-to-end data and AI projects that turn raw data into
-actionable insights, analytical products, predictive models, data
-pipelines, and intelligent applications.
+I build end-to-end machine learning systems: from data pipelines and models to APIs and dashboards. Currently looking for **AI/ML internships and entry-level roles**.
 
-I'm particularly interested in:
+📍 Bengaluru, India  
+📫 ram123ritheesh@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/k-v-ram-ritheesh-068122300/)
 
--   📊 Data Analytics & Business Intelligence
--   🏗️ Data Engineering & ETL/ELT
--   🤖 Machine Learning
--   🧠 Artificial Intelligence & GenAI
--   🗄️ SQL & Data Modeling
--   📈 Product & Customer Analytics
--   🧪 A/B Testing & Statistical Analysis
--   🚀 AI-powered applications
+---
 
-------------------------------------------------------------------------
+## 🛠️ Tech Stack
+
+**Languages:** Python · SQL · C++ · JavaScript · TypeScript
+
+**ML & Data:** Scikit-learn · XGBoost · SHAP · Pandas · NumPy · DuckDB · imbalanced-learn
+
+**GenAI & NLP:** Google Gemini API · Hugging Face Transformers · RAG · Prompt Engineering · Sentence Embeddings · TF-IDF
+
+**Backend & Frontend:** FastAPI · Pydantic · Node.js · Express · React · Vite · Streamlit
+
+**Databases & BI:** PostgreSQL · MongoDB · Power BI · Plotly · Matplotlib
+
+**Tools:** Git · GitHub · Pytest · Docker (basics) · Postman · Vercel · Render
+
+---
 
 ## 🚀 Featured Projects
 
-### 📊 SaaS Product Growth & Revenue Intelligence
+### 🛡️ [RazorGuard: AI Transaction Fraud Detection](https://github.com/USERNAME/RazorGuard)
+XGBoost fraud classifier on imbalanced data with behavioral features, SHAP explanations, and a FastAPI `/risk/score` endpoint returning ALLOW / REVIEW / BLOCK.
+- **0.9055 ROC-AUC**, cost-sensitive threshold of 0.18 (61.9% recall)
+- Sub-200ms scoring, React/Vite dashboard
+- `Python` `XGBoost` `SHAP` `FastAPI` `React`
 
-End-to-end SaaS analytics platform covering product growth, customer
-intelligence, experimentation, churn prediction, and revenue-at-risk
-analysis.
+### 📊 [SaaS Growth & Churn Intelligence Platform](https://github.com/USERNAME/saas-growth-platform)
+Product analytics and churn prediction over **1.45M+ events** and 100K accounts, built with DuckDB and Parquet.
+- Funnel analysis, cohort retention, and an A/B test (+3.04 pp activation lift, p < 0.00001)
+- Churn model with **0.8902 ROC-AUC**; top-risk decile captured 44.64% of future churners
+- `Python` `DuckDB` `Scikit-learn` `Streamlit` `Pytest`
 
-**Highlights** - 100K customers - 1.45M+ product events - Funnel &
-cohort analysis - A/B testing & statistical significance - Customer
-segmentation - Churn prediction - Revenue-at-risk modeling - SQL
-analytical marts - Automated data quality testing - Interactive
-Streamlit dashboard
+### 🧭 [Career.OS: AI Career Assistant](https://github.com/USERNAME/Career.OS)
+Resume analysis, semantic job matching (40% keyword + 60% embedding similarity), and a RAG-powered career chat assistant.
+- JWT auth, MongoDB Atlas, "Explain My Match" feature
+- `React` `Node.js` `MongoDB` `Gemini API` `Hugging Face` `RAG`
 
-**Tech:** SQL • DuckDB • Python • Pandas • Scikit-learn • Plotly •
-Streamlit
+### 🚨 [ScamShield AI: Scam Detection Agent](https://github.com/USERNAME/ScamShield-AI)
+Analyzes suspicious SMS, emails, and screenshots, returning a 0-100 risk score, classification, and safety steps.
+- Async FastAPI backend with structured Gemini prompts and multimodal screenshot analysis
+- `FastAPI` `Gemini API` `React` `Render` `Vercel`
 
-🔗 [View
-Project](https://github.com/ramritheesh/saas-product-growth-revenue-intelligence)
+### 🛒 [Olist E-Commerce Customer & Revenue Intelligence](https://github.com/USERNAME/olist-analytics)
+SQL and Power BI analysis of 99K+ orders: KPIs, cohort retention, and delivery-vs-satisfaction analysis in a 4-tab dashboard.
+- `PostgreSQL` `SQL` `Power BI` `DAX`
 
-------------------------------------------------------------------------
+---
 
-### 🛒 Olist Customer & Revenue Intelligence
+## 💼 Experience
 
-End-to-end e-commerce analytics project focused on customer behavior,
-revenue performance, business KPIs, and analytical insights using SQL
-and data analysis.
+**Project Intern, KodNest Technologies** (Feb 2026 – May 2026)
+Built FastAPI microservice components with Pydantic validation, wrote Pytest suites that caught 25+ integration bugs, and built Power BI/Excel reports for team leads.
 
-**Focus Areas** - Customer & revenue analysis - Business KPI
-development - SQL data preparation - Revenue analysis - Customer
-behavior - Analytical data modeling
+---
 
-**Tech:** SQL • Python • Pandas • Data Analysis
+## 📜 Certifications
 
-🔗 [View
-Project](https://github.com/ramritheesh/olist-customer-revenue-intelligence)
+- AI/ML Specialization: Infosys
+- Introduction to Machine Learning: NPTEL
+- Full-Stack Web Development: Internshala
+- AI Foundation Course: Jio Institute
 
-------------------------------------------------------------------------
+---
 
-### 🛡️ ScamShield-AI
+## 📈 GitHub Stats
 
-AI-powered scam detection and digital safety assistant designed to help
-identify potentially fraudulent or suspicious content.
+![Ram's GitHub stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=dark&hide_border=true)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=dark&hide_border=true)
 
-**Tech:** React • FastAPI • JavaScript • Gemini AI
+---
 
-🔗 [View Project](https://github.com/ramritheesh/ScamShield-AI)
+## 🎯 Currently
 
-------------------------------------------------------------------------
+- 🔭 Building more LLM and RAG applications
+- 🌱 Deepening my knowledge of model evaluation and deployment
+- 💬 Open to AI/ML internships and collaborations
 
-### 🏥 AI Insurance Classifier
-
-Full-stack AI application that uses the Google Gemini API to classify
-insurance documents through a modern web interface.
-
-**Tech:** TypeScript • React • Gemini API
-
-🔗 [View
-Project](https://github.com/ramritheesh/ai-insurance-classifier)
-
-------------------------------------------------------------------------
-
-### 📈 Sales Data Analysis
-
-Business-focused sales analytics project using Python, SQL, Excel, and
-Power BI to analyze revenue trends, customer behavior, product
-performance, and business KPIs.
-
-**Tech:** Python • SQL • Excel • Power BI • Pandas
-
-🔗 [View Project](https://github.com/ramritheesh/SalesDataAnalysis)
-
-------------------------------------------------------------------------
-
-### 🎮 Video Games Sales Analysis
-
-Exploratory data analysis project examining video game sales using
-Python-based data analysis and visualization.
-
-**Tech:** Python • Pandas • NumPy • Matplotlib • Jupyter Notebook
-
-🔗 [View
-Project](https://github.com/ramritheesh/VideoGamesSalesAnalysis)
-
-------------------------------------------------------------------------
-
-## 🧠 AI & Machine Learning
-
-My AI/ML work focuses on applying machine learning and generative AI to
-practical problems, from predictive modeling and classification to
-LLM-powered applications.
-
-### Areas
-
--   Machine Learning
--   Predictive Modeling
--   Classification
--   Feature Engineering
--   Model Evaluation
--   Churn Prediction
--   Risk Scoring
--   NLP
--   Generative AI
--   LLM Applications
--   RAG
--   AI Agents
-
-### Tools
-
-Python • Scikit-learn • XGBoost • LightGBM • Gemini API • LangChain •
-LangGraph
-
-------------------------------------------------------------------------
-
-## 🏗️ Data Engineering
-
-I'm building experience in designing reproducible data pipelines and
-analytical data systems, with an emphasis on reliable data preparation,
-validation, modeling, and analytics.
-
-``` text
-Raw Data
-   ↓
-Data Ingestion
-   ↓
-ETL / ELT
-   ↓
-Data Validation
-   ↓
-Data Modeling
-   ↓
-Analytical Warehouse
-   ↓
-BI / ML / AI
-```
-
-### Areas
-
--   ETL / ELT pipelines
--   Data cleaning & transformation
--   Data validation & quality checks
--   Analytical data modeling
--   SQL data marts
--   Reproducible analytics workflows
--   Preparing data systems for BI and ML
-
-------------------------------------------------------------------------
-
-## 🛠️ Technical Skills
-
-### Languages & Data
-
--   Python
--   SQL
--   JavaScript
--   TypeScript
-
-### Data & Analytics
-
--   Pandas
--   NumPy
--   Excel
--   Power BI
--   Plotly
--   Matplotlib
--   DuckDB
-
-### Machine Learning & AI
-
--   Scikit-learn
--   XGBoost
--   LightGBM
--   Gemini API
--   LangChain
--   LangGraph
-
-### Web & Applications
-
--   React
--   FastAPI
--   Streamlit
-
-### Data Engineering
-
--   ETL / ELT
--   Data Validation
--   Data Modeling
--   Analytical Data Marts
--   Data Quality Testing
-
-------------------------------------------------------------------------
-
-## 🎯 Career Focus
-
-I'm actively building toward roles in:
-
--   Data Analyst
--   Business / Product Analyst
--   Data Engineer
--   Machine Learning Engineer
--   AI Engineer
--   GenAI / LLM Engineer
-
-I'm especially interested in opportunities where I can combine **data,
-analytics, engineering, and AI** to solve real-world problems.
-
-------------------------------------------------------------------------
-
-## 📚 Currently Building
-
--   Advanced SQL & analytical problem solving
--   Data engineering & pipeline design
--   Machine learning & model evaluation
--   Generative AI & LLM applications
--   RAG systems & AI agents
--   Cloud and production-oriented data workflows
-
-------------------------------------------------------------------------
-
-## 🤝 Let's Connect
-
-I'm always interested in connecting with people working in **Data, AI,
-Machine Learning, Analytics, and Engineering**.
-
--   💼 LinkedIn: [Connect with me](https://www.linkedin.com/k-v-ram-ritheesh-068122300/)
--   🐙 GitHub: [@ramritheesh](https://github.com/ramritheesh)
-
-If you're working on an interesting data or AI project, feel free to
-reach out!
-
-------------------------------------------------------------------------
-
-## ⭐ Featured Work
-
-My goal is to keep building practical, well-documented projects that
-demonstrate the complete journey from **raw data → insights → models →
-applications**.
-
-Thanks for visiting my profile! 🚀
+📫 **Reach me:** [ram123ritheesh@gmail.com](mailto:ram123ritheesh@gmail.com) or [LinkedIn](https://www.linkedin.com/in/k-v-ram-ritheesh-068122300/)
