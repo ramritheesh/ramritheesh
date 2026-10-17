@@ -12,15 +12,15 @@
 
 <!-- CONTACT BADGES -->
 <p align="center">
-  <a href="htpps://www.linkedin.com/in/k-v-ram-ritheesh"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/k-v-ram-ritheesh"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:ram123ritheesh@gmail.com"><img src="https://img.shields.io/badge/Gmail-Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <img src="https://img.shields.io/badge/Status-Open%20to%20Internships-2ea44f?style=for-the-badge" alt="Open to work">
-  <img src="https://komarev.com/ghpvc/?username=ramritheesh&label=Profile%20Views&color=7c3aed&style=for-the-badge" alt="Profile views">
+  <img src="https://hits.sh/github.com/ramritheesh.svg?style=for-the-badge&label=Profile%20Views&color=7c3aed" alt="Profile views">
 </p>
 
 ---
 
-## 👨‍💻 About Me
+## 👨💻 About Me
 
 <table>
 <tr>
@@ -195,7 +195,7 @@ Hybrid NLP and generative AI pipeline that classifies unstructured insurance cla
 
 **Hiring for AI/ML, or building something with LLMs? Let's talk.**
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/k-v-ram-ritheesh-068122300/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/k-v-ram-ritheesh)
 [![Email](https://img.shields.io/badge/-ram123ritheesh@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:ram123ritheesh@gmail.com)
 
 *"Models are easy to build. Models people can trust are the real work."*
