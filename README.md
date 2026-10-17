@@ -12,7 +12,7 @@
 
 <!-- CONTACT BADGES -->
 <p align="center">
-  <a href="www.linkedin.com/in/k-v-ram-ritheesh"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="htpps://www.linkedin.com/in/k-v-ram-ritheesh"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:ram123ritheesh@gmail.com"><img src="https://img.shields.io/badge/Gmail-Email%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <img src="https://img.shields.io/badge/Status-Open%20to%20Internships-2ea44f?style=for-the-badge" alt="Open to work">
   <img src="https://komarev.com/ghpvc/?username=ramritheesh&label=Profile%20Views&color=7c3aed&style=for-the-badge" alt="Profile views">
